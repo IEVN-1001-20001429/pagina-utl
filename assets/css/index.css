@@ -419,3 +419,18 @@ footer .links-footer-small {
       opacity: 0.8;
       transition: 0.5s all;
     }
+    .btn-up{
+      border-radius: 60%;
+      background-color: #12946C;
+      position: fixed;
+      right: 40px;
+      bottom: 40px;
+      display: flex;
+      width: 60px;
+      height: 60px;
+      justify-content: center;
+      align-items: center;
+    }
+    .btn-up img{
+      width: 40px;
+    }
